@@ -10,11 +10,11 @@
 
 The enviroment used for this project was the portable robot simulator developed by [Student Robotics](https://studentrobotics.org). The arena has a golden and silver tokens, as follows:
 
-![arena](https://github.com/Emanuele1202/RT-I/blob/master/Assignment1/Initial_arena_structure.png) 
+![arena](https://github.com/Emanuele1202/RT-1/blob/main/Assignment1/Initial_arena_structure.png) 
 
 The goal for this assignment was about making a robot move continuously around the arena in order to grab one silver token at a time, and when it grabs one, the robot must bring it close to a golden token and then releasing it as follows:
 
-![final](https://github.com/Emanuele1202/Research-Track-I/blob/master/Assignment1/Final_arena_structure.png)
+![final](https://github.com/Emanuele1202/RT-1/blob/main/Assignment1/Final_arena_structure.png)
 
 The main part of the work was about managing the fact that the robot should not grab two times the same silver token and also that it should not bring them to the same golden token.
     
@@ -33,7 +33,7 @@ This functions return the distance and the rotation used from the reach_token fu
  
 ##FLOWCHART
 
-![flowchart](https://github.com/Emanuele1202/Research-Track-I/blob/master/Assignment1/flowcharts.png)
+![flowchart](https://github.com/Emanuele1202/RT-1/blob/main/Assignment1/flowcharts.png)
  
  
 ## HOW TO RUN THE CODE:
