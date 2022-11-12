@@ -10,7 +10,7 @@
 
 The enviroment used for this project was the portable robot simulator developed by [Student Robotics](https://studentrobotics.org). The arena has a golden and silver tokens, as follows:
 
-![arena](https://github.com/Emanuele1202/Research-Track-I/blob/master/Assignment1/Initial_arena_structure.png) 
+![arena](https://github.com/Emanuele1202/RT-I/blob/master/Assignment1/Initial_arena_structure.png) 
 
 The goal for this assignment was about making a robot move continuously around the arena in order to grab one silver token at a time, and when it grabs one, the robot must bring it close to a golden token and then releasing it as follows:
 
