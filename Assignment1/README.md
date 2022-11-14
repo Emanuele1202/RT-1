@@ -3,7 +3,7 @@
 ### Professor [Carmine Recchiuto]
 ### Student: [Emanuele Buzzurro]
 
-##Project Description: 
+## Project Description: 
 
 
 ### Workflow ###
@@ -31,7 +31,7 @@ This functions return the distance and the rotation used from the reach_token fu
 	-silver_box_list
  which keeps track of the tokens already "used".
  
-##FLOWCHART
+## FLOWCHART
 
 ![flowchart](https://github.com/Emanuele1202/RT-1/blob/main/Assignment1/flowcharts.png)
  
